@@ -15,6 +15,5 @@ function renderUserTable(data) {
             <td>${cur.id}</td>
             <td>${cur.name}</td>
             <td>${cur.password}</td>
-        </tr>`, "")
-    console.log("here");
+        </tr>`, "");
 }
